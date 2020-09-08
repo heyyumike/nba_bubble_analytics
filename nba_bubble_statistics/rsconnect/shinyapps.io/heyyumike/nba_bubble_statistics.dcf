@@ -1,0 +1,10 @@
+name: nba_bubble_statistics
+title:
+username:
+account: heyyumike
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2767476
+bundleId: 3604492
+url: https://heyyumike.shinyapps.io/nba_bubble_statistics/
+when: 1599531910.33451
